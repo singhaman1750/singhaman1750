@@ -8,6 +8,6 @@ I am a PhD scholar at Stoch Lab, IISc. I am currently working with Dr. Shishir N
 
 - 🚀 My current research interest lie in the field of designing and control of dynamic legged robots.
 - 🔭 I’m currently working on developing mechanical designs for quadruped robots.
-- 🌱 I’m currently learning ROS.
+- 🌱 I’m currently learning ROS, Pybullet and MuJoCo.
 - 💬 I am happy to share my experiences in robotics and am eager to listen to yours too.
 - 📫 How to reach me: Mail me on saman@iisc.ac.in or singhaman1750@gmail.com
