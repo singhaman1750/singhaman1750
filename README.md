@@ -21,7 +21,7 @@ Follow me on **[Google Scholar](https://scholar.google.com/citations?user=7PzY75
 [![Email](https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=email&logoColor=white)](mailto:saman@iisc.ac.in)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhaman1750@gmail.com)
 [![X(Twitter)](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=X&logoColor=white)](https://x.com/singhaman1750)
-[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=YouTube&logoColor=white)]([#](https://www.youtube.com/@robomathslab))
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@robomathslab)
 
 ## 📈 Stats
 
