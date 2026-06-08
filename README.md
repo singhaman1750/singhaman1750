@@ -28,7 +28,3 @@ Follow me on **[Google Scholar](https://scholar.google.com/citations?user=7PzY75
 ![GitHub followers](https://img.shields.io/github/followers/singhaman1750?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/singhaman1750?style=social)
 ![Profile views](https://komarev.com/ghpvc/?username=singhaman1750&color=green)
-
-
-## 🏆GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=singhaman1750&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
